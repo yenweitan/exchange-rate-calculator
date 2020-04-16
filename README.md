@@ -1,2 +1,11 @@
-# exchange-rate-calculator
-This is just a simple HTML, CSS and JS static website for exchange rate calculations for practice. 
+## Exchange Rate
+
+Select countries to get the exchange rate for a specific amount
+
+## Project Specifications
+
+- Display UI with 2 select lists for countries and 2 inputs for amounts
+- Fetch exchange rates from API (https://api.exchangerate-api.com)
+- Display the values for both countries
+- Update values on amount change
+- Swap country rates
